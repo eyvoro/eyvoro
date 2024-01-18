@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eyvoro
-- 👀 I’m interested in Golang, PHP, Python, IOT
+- 👀 I’m interested in Rust, Golang, PHP, Python, IOT
 
 <!---
 eyvoro/eyvoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
